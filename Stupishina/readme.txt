@@ -1,2 +1,2 @@
-Вариант 462.
-Необходимо добавить библиотеку FANN http://leenissen.dk/fann/wp/ и fannfloat.dll в debug проекта.
+Р’Р°СЂРёР°РЅС‚ 462.
+РќРµРѕР±С…РѕРґРёРјРѕ РїРѕРґРєР»СЋС‡РµРЅРёРµ Р±РёР±Р»РёРѕС‚РµРєРё FANN http://leenissen.dk/fann/wp/ Рё fannfloat.dll РІ debug РїСЂРѕРµРєС‚Р°.
