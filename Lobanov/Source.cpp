@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	fann_type input[3];
 	int i1, i2, i3;
 
-	struct fann *ann = fann_create_from_file("412_float.net");
+	struct fann *ann = fann_create_from_file("412.net");
 
 
 	if (argc == 4)
